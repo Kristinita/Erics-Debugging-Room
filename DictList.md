@@ -2,4 +2,5 @@ unanswered.txt
 Alfa-bug.txt  
 Artistic_means_of_the_Russian_language.txt  
 Capitals,_administrative_centers_and_extreme_points_of_the_continents.txt  
+Seaside.txt  
 Test_Alfa-bug_without_images.txt  
