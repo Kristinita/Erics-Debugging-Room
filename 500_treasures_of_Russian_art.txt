@@ -1,4 +1,4 @@
-Описание пакета: вопросы по книге Елены Евстратовой «500 сокровищ русской живописи». Также по данной книге написаны пакеты «Russian_painting_until_the_second_half_of_the_XIX_century», «Russian_painting_of_the_second_half_of_the_XIX_century» и «Russian_painting_at_the_turn_of_XIX—XX_centuries».
+Описание пакета: вопросы по книге Елены Евстратовой «500 сокровищ русской живописи». Также по данной книге написаны пакеты «Russian_painting_until_the_second_half_of_the_XIX_century», «Russian_painting_of_the_second_half_of_the_XIX_century» и «Russian_painting_at_the_turn_of_XIX_and_XX_centuries».
 
 Процесс тренировки: особых указаний не требуется.
 
