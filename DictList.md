@@ -1,9 +1,11 @@
 unanswered.txt  
+500_treasures_of_Russian_art.txt  
 Alfa-bug.txt  
 Artistic_means_of_the_Russian_language.txt  
 Capitals,_administrative_centers_and_extreme_points_of_the_continents.txt  
 Reverse.txt  
-Russian_painting.txt  
-Russian_painting_red.txt  
+Russian_painting_at_the_turn_of_XIX-XX_centuries.txt  
+Russian_painting_of_the_second_half_of_the_XIX_century.txt  
+Russian_painting_until_the_second_half_of_the_XIX_century.txt  
 Seaside.txt  
 Test_Alfa-bug_without_images.txt  
