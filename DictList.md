@@ -1,6 +1,7 @@
 unanswered.txt  
 500_treasures_of_Russian_art.txt  
 Artistic_means_of_the_Russian_language.txt  
+Astronomy_riddles.txt  
 Capitals,_administrative_centers_and_extreme_points_of_the_continents.txt  
 Eastern_Europe_countries_in_XX_century.txt  
 Eastern_Europe_geopolitics.txt  
