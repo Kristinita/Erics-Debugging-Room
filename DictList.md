@@ -6,3 +6,6 @@ Constructed_languages.txt
 Russian_painting_at_the_turn_of_XIX_and_XX_centuries.txt  
 Russian_painting_of_the_second_half_of_the_XIX_century.txt  
 Russian_painting_until_the_second_half_of_the_XIX_century.txt  
+Scandinavian_gods.txt  
+Scandinavian_heroes.txt  
+Scandinavian_mythology.txt  
