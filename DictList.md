@@ -3,6 +3,8 @@ unanswered.txt
 Artistic_means_of_the_Russian_language.txt  
 Capitals,_administrative_centers_and_extreme_points_of_the_continents.txt  
 Constructed_languages.txt  
+Russian_female_names.txt  
+Russian_men's_names.txt  
 Russian_painting_at_the_turn_of_XIX_and_XX_centuries.txt  
 Russian_painting_of_the_second_half_of_the_XIX_century.txt  
 Russian_painting_until_the_second_half_of_the_XIX_century.txt  
