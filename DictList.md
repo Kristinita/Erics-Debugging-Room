@@ -11,3 +11,4 @@ Russian_painting_until_the_second_half_of_the_XIX_century.txt
 Scandinavian_gods.txt  
 Scandinavian_heroes.txt  
 Scandinavian_mythology.txt  
+Slavonic_holidays.txt  
