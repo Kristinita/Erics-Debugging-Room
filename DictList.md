@@ -1,9 +1,0 @@
-unanswered.txt  
-Artistic_means_of_the_Russian_language.txt  
-Bibliology.txt  
-Religions_of_Russia.txt  
-Russian_female_names.txt  
-Russian_men's_names.txt  
-Russian_peoples.txt  
-Russian_peoples_red.txt  
-USA_states_nicknames.txt  
