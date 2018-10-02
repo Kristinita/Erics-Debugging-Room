@@ -33,7 +33,7 @@
 
 Ссылка(и) на источник(и): https://yadi.sk/i/E3wjh64e3MfuGh
 
-Постоянный адрес пакета: https://github.com/Kristinita/Erics-Green-Room/blob/master/Алкогольные_коктейли.txt
+Постоянный адрес пакета:
 
 <body>
 <!-- Исторические коктейли -->
