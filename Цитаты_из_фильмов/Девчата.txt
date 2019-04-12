@@ -20,7 +20,6 @@ https://books.google.ru/books?id=zbskYDKde2oC&printsec=frontcover&source=gbs_ge_
 Постоянный адрес пакета:
 
 <body>
-<noerichek>
 А вы и есть то ЭТО, которого все так боятся, да? — Ну… уж… не такой я страшный*новое начальство*-video-https://www.youtube.com/watch?v=W8MXhZGIXS0
 В ПЕРВОМ и ВТОРОМ все равны*столовая и баня*-video-https://vk.com/video-70630556_456239076
 Во здоровая! Откормила я тебя, ЭТО, на свою погибель. Ну, погоди, получишь ты у меня завтра добавки!*Надежда*-video-https://www.youtube.com/watch?v=v3nNBuH0fBM
@@ -45,11 +44,6 @@ https://books.google.ru/books?id=zbskYDKde2oC&printsec=frontcover&source=gbs_ge_
 Что ты ЭТО, чтоб тебя испытывать!*трактор*-video-https://www.youtube.com/watch?v=cPhH823fhZQ
 Эх ты, ЭТО с картошкой!*вареники*-video-https://www.facebook.com/kinoparad/videos/1204452296296810/?v=1204452296296810
 Разрешите проводить? — Я и сама дойду. Здесь ИХ нет.*медведи*медведей*-video-https://www.facebook.com/kinoparad/videos/1204452296296810/?v=1204452296296810
-<!-- Назвать фильм -->
-Помимо «Операции "Ы" и других приключений Шурика» фраза «А компот?» прозвучала в ЭТОМ фильме*Девчата*-video-https://youtu.be/8CYY8EM5xYE?t=2615
 Тема: Назвать персонажа по цитате
-Ух и подлая же ты, Анфиска!*Катя*-wrong-Надя*-video-https://www.youtube.com/watch?v=duJqf8emQ5I
-Чтобы я когда влюбился!.. Не дождутся они от меня!*Алёша Великанов*Алёша*-video-https://www.youtube.com/watch?v=EycFUYc4oPo
-<!-- В сборник -->
-Лучше я потом как-нибудь, а то мы сегодня всё переделаем, а назавтра ничего не останется*Тося Кислицына*Тося*-video-https://www.youtube.com/watch?v=wjEBm5A-q10
-</noerichek>
+Ух и подлая же ты, Анфиска!*Катя*Екатерина*-wrong-Надя*-video-https://www.youtube.com/watch?v=duJqf8emQ5I
+Чтобы я когда влюбился!.. Не дождутся они от меня!*Алёша Великанов*Алексей Великанов*-video-https://www.youtube.com/watch?v=EycFUYc4oPo
