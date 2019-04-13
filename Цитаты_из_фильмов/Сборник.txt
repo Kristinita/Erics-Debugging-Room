@@ -2,6 +2,19 @@
 
 <!-- Назвать фильм -->
 Помимо «Операции "Ы" и других приключений Шурика» фраза «А компот?» прозвучала в ЭТОМ фильме*Девчата*-video-https://youtu.be/8CYY8EM5xYE?t=2615
+Тема: Назвать фильм по фразе
+Всё у вас в порядке! Удивительно! С таким счастьем — и на свободе!@Золотой телёнок*-video-https://youtu.be/Z6viGCs6gKQ?t=4095
+Раздача… слонов@Золотой телёнок*-video-https://youtu.be/X0Yk8gMPQ-s?t=4343
+Не делайте из еды культа!@Золотой телёнок*-video-https://www.youtube.com/watch?v=TlQ4t9CRmi0
+<!-- 12 стульев, 1971 -->
+Бунт на корабле?!@12 стульев@Двенадцать стульев*-video-https://youtu.be/P8t2dbJ7YXY?t=8675
+Вас, конечно, удивил ранний визит неизвестного мужчины!@12 стульев@Двенадцать стульев*-video-https://youtu.be/P8t2dbJ7YXY?t=4395
+Дети вас не забудут@12 стульев@Двенадцать стульев*-video-https://www.youtube.com/watch?v=2ZoRY1ll4vU
+Мы чужие на этом празднике жизни!@12 стульев@Двенадцать стульев*-video-https://www.youtube.com/watch?v=2oxRRl4QRTE
+Пишите письма!@12 стульев@Двенадцать стульев*-info-Коробейникову*-video-https://www.youtube.com/watch?v=aAIt2uakENw
+Предупреждаю: у нас длинные руки!@12 стульев@Двенадцать стульев*-video-https://www.youtube.com/watch?v=pi8Jmwem2Ug
+Сами сознаёмся или будем дальше отпираться?@12 стульев@Двенадцать стульев*-video-https://www.youtube.com/watch?v=JW0NlvKiPzs
+Спокойно, за дело берусь я!@12 стульев@Двенадцать стульев*-video-https://www.youtube.com/watch?v=-668hTYsZGM
 Тема: Назвать персонажа по фразе
 <!-- Девчата -->
 Лучше я потом как-нибудь, а то мы сегодня всё переделаем, а назавтра ничего не останется*Тося Кислицына*-video-https://www.youtube.com/watch?v=wjEBm5A-q10
@@ -10,13 +23,4 @@
 Всё, всё, что нажил непосильным трудом, всё же погибло*Антон Шпак*Антон Семёнович Шпак*-video-https://www.youtube.com/watch?v=OKyPIdkSxVA
 Граждане! Храните деньги в сберегательной кассе, если, конечно, они у вас есть.*Юрий Милославский*Жорж Милославский*-video-https://www.youtube.com/watch?v=F6O08UNE2t4
 Да ты ведьма!*Иван Грозный*Иван Васильевич Грозный*-video-https://www.youtube.com/watch?v=nun_Anh62kQ
-Бориску на царство?*Иван Грозный*Иван Васильевич Грозный*-info-«Какого Бориса-царя? Бориску? Так он, лукавый, презлым заплатил за предобрейшее.»*-video-https://www.youtube.com/watch?v=Vcoifs1wPfU
-<!-- 12 стульев, 1971 -->
-Бунт на корабле?!@Остап Бендер*-video-https://youtu.be/P8t2dbJ7YXY?t=8675
-Вас, конечно, удивил ранний визит неизвестного мужчины!@Остап Бендер*-video-https://youtu.be/P8t2dbJ7YXY?t=4395
-Дети вас не забудут@Остап Бендер*-video-https://www.youtube.com/watch?v=2ZoRY1ll4vU
-Мы чужие на этом празднике жизни!@Остап Бендер*-video-https://www.youtube.com/watch?v=2oxRRl4QRTE
-Пишите письма!@Остап Бендер@Бендер@Остап*-info-Коробейникову*-video-https://www.youtube.com/watch?v=aAIt2uakENw
-Предупреждаю: у нас длинные руки!@Остап Бендер*-video-https://www.youtube.com/watch?v=pi8Jmwem2Ug
-Сами сознаёмся или будем дальше отпираться?@Остап Бендер*-video-https://www.youtube.com/watch?v=JW0NlvKiPzs
-Спокойно, за дело берусь я!@Остап Бендер*-video-https://www.youtube.com/watch?v=-668hTYsZGM
+Бориску на царство?*Иван Грозный*Иван Васильевич Грозный*-info-«Какого Бориса-царя? Бориску? Так он, лукавый, презлым заплатил за предобрейшее!»*-video-https://www.youtube.com/watch?v=Vcoifs1wPfU
