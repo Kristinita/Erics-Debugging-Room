@@ -18,8 +18,8 @@
 
 Ссылка(и) на источник(и):
 
-1. https://dl114.zlibcdn.com/download/book/580696?token=6ca070aaffe0957f145bfbd127b86e0b#page=
-2. http://static.{{fl}}.is:443/b.fb2/Myasnikov_100-velikih-dostoprimechatelnostey-Sankt-Peterburga.Q1th6w.341623.fb2.zip#zz_
+1. https://dl114.zlibcdn.com/download/book/580696?token=6ca070aaffe0957f145bfbd127b86e0b#page={page}
+2. http://static.{fl}.is:443/b.fb2/Myasnikov_100-velikih-dostoprimechatelnostey-Sankt-Peterburga.Q1th6w.341623.fb2.zip#zz_{page}
 
 Постоянный адрес пакета:
 
