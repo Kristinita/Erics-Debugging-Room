@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.org/Kristinita/Erics-Debugging-Room.svg?branch=master)](https://travis-ci.org/Kristinita/Erics-Green-Room) [![Build status](https://ci.appveyor.com/api/projects/status/totwvve6mhjynrg9?svg=true)](https://ci.appveyor.com/project/Kristinita/erics-debugging-room) [![CircleCI](https://circleci.com/gh/Kristinita/Erics-Debugging-Room.svg?style=svg)](https://circleci.com/gh/Kristinita/Erics-Green-Room)
+[![Build Status](https://travis-ci.org/Kristinita/Erics-Debugging-Room.svg?branch=master)](https://travis-ci.org/Kristinita/Erics-Green-Room) [![Build status](https://ci.appveyor.com/api/projects/status/totwvve6mhjynrg9?svg=true)](https://ci.appveyor.com/project/Kristinita/erics-debugging-room)
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Open_Access_logo_PLoS_white.svg/640px-Open_Access_logo_PLoS_white.svg.png"></p>
